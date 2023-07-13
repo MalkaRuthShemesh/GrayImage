@@ -8,6 +8,10 @@ namespace VendingMachine
 {
     public  class Drink:Product
     {
+<<<<<<< HEAD
         char c;
+=======
+int x;
+>>>>>>> 3b06368fbb8b323a8e7290d6f6345ac46df5d79b
     }
 }
