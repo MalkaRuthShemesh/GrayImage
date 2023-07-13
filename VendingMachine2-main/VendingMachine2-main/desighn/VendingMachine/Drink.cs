@@ -10,7 +10,7 @@ namespace VendingMachine
     {
 <<<<<<< HEAD
         
-        char c,f,commit;
+        char c,f;
 =======
 int x;
 >>>>>>> 3b06368fbb8b323a8e7290d6f6345ac46df5d79b
