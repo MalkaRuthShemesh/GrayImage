@@ -9,9 +9,10 @@ namespace VendingMachine
     public  class Drink:Product
     {
 <<<<<<< HEAD
-        char c;
+        char c,f;
 =======
 int x;
 >>>>>>> 3b06368fbb8b323a8e7290d6f6345ac46df5d79b
+        //i want to check if i can pudh from licll to git i wish for good
     }
 }

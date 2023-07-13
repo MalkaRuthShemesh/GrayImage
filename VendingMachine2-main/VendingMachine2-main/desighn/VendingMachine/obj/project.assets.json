@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\malka\\Desktop\\VendingMachine2-main\\VendingMachine2-main\\desighn\\VendingMachine\\VendingMachine.csproj",
+      "projectUniqueName": "C:\\Users\\malka\\Desktop\\GrayUmAGE\\GrayImage\\VendingMachine2-main\\VendingMachine2-main\\desighn\\VendingMachine\\VendingMachine.csproj",
       "projectName": "VendingMachine",
-      "projectPath": "C:\\Users\\malka\\Desktop\\VendingMachine2-main\\VendingMachine2-main\\desighn\\VendingMachine\\VendingMachine.csproj",
+      "projectPath": "C:\\Users\\malka\\Desktop\\GrayUmAGE\\GrayImage\\VendingMachine2-main\\VendingMachine2-main\\desighn\\VendingMachine\\VendingMachine.csproj",
       "packagesPath": "C:\\Users\\malka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\malka\\Desktop\\VendingMachine2-main\\VendingMachine2-main\\desighn\\VendingMachine\\obj\\",
+      "outputPath": "C:\\Users\\malka\\Desktop\\GrayUmAGE\\GrayImage\\VendingMachine2-main\\VendingMachine2-main\\desighn\\VendingMachine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
