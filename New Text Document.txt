@@ -1,5 +1,9 @@
 nnnn
 banana
 cocenate
+<<<<<<< HEAD
 cola
 nh
+=======
+strowbarry
+>>>>>>> 385737c07a3253a9ced5fe641964390226a6ee64
