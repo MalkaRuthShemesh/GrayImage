@@ -1,0 +1,14 @@
+C:\Users\malka\Downloads\VendingMachine2-main\VendingMachine2-main\desighn\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\malka\Downloads\VendingMachine2-main\VendingMachine2-main\desighn\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.Form1.resources
+C:\Users\malka\Downloads\VendingMachine2-main\VendingMachine2-main\desighn\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.GenerateResource.cache
+C:\Users\malka\Downloads\VendingMachine2-main\VendingMachine2-main\desighn\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malka\Downloads\VendingMachine2-main\VendingMachine2-main\desighn\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\malka\Downloads\VendingMachine2-main\VendingMachine2-main\desighn\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.AssemblyInfo.cs
+C:\Users\malka\Downloads\VendingMachine2-main\VendingMachine2-main\desighn\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\malka\Desktop\VendingMachine2-main\VendingMachine2-main\desighn\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\malka\Desktop\VendingMachine2-main\VendingMachine2-main\desighn\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.Form1.resources
+C:\Users\malka\Desktop\VendingMachine2-main\VendingMachine2-main\desighn\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.GenerateResource.cache
+C:\Users\malka\Desktop\VendingMachine2-main\VendingMachine2-main\desighn\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malka\Desktop\VendingMachine2-main\VendingMachine2-main\desighn\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\malka\Desktop\VendingMachine2-main\VendingMachine2-main\desighn\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.AssemblyInfo.cs
+C:\Users\malka\Desktop\VendingMachine2-main\VendingMachine2-main\desighn\VendingMachine\obj\Debug\net6.0-windows\VendingMachine.csproj.CoreCompileInputs.cache
